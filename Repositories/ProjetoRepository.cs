@@ -1,5 +1,5 @@
 // auxiliar a coleta no banco de dados e entrga para os controllers
-
+//
 using Exo.WebApi.Contexts;
 using Exo.WebApi.Models;
 using System;
